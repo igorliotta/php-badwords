@@ -1,0 +1,9 @@
+.title {
+    text-align: center;
+}
+
+.number {
+    background-color: brown;
+    color: white;
+    padding: 5px 14px;
+}
